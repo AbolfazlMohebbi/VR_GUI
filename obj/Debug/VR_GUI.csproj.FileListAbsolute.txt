@@ -1,0 +1,10 @@
+D:\StashVR\VR_GUI_Application\VR_GUI\bin\Debug\VR_GUI.exe.config
+D:\StashVR\VR_GUI_Application\VR_GUI\bin\Debug\VR_GUI.exe
+D:\StashVR\VR_GUI_Application\VR_GUI\bin\Debug\VR_GUI.pdb
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.csprojAssemblyReference.cache
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.Form1.resources
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.Properties.Resources.resources
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.csproj.GenerateResource.cache
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.csproj.CoreCompileInputs.cache
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.exe
+D:\StashVR\VR_GUI_Application\VR_GUI\obj\Debug\VR_GUI.pdb
